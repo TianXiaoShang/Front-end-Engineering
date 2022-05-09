@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "scripts": {
+        "babel": "babel-node"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.17.10",
+        "@babel/node": "^7.17.10",
+        "@babel/preset-env": "^7.17.10"
+    }
+}
